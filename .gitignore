@@ -1,2 +1,5 @@
 Frontend_recommender_system/similarity.pkl 
 *.pkl 
+*.pkl 
+movie-recommender-system/similarity.pkl 
+Frontend_recommender_system/similarity.pkl 
